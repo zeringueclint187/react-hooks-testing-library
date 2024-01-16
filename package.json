@@ -53,7 +53,7 @@
     "react-error-boundary": "^3.1.0"
   },
   "devDependencies": {
-    "@types/react": "17.0.44",
+    "@types/react": "18.2.48",
     "@types/react-dom": "17.0.15",
     "@types/react-test-renderer": "17.0.1",
     "@typescript-eslint/eslint-plugin": "5.11.0",
@@ -68,7 +68,7 @@
     "get-pkg-repo": "4.1.1",
     "kcd-scripts": "11.2.2",
     "prettier": "2.5.1",
-    "react": "17.0.2",
+    "react": "18.2.0",
     "react-dom": "17.0.2",
     "react-test-renderer": "17.0.2",
     "ts-node": "10.5.0",
